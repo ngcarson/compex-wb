@@ -3,20 +3,32 @@
 html, body {
   height: 100%;
   width: 100%;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   color: #222;
+  overflow-x: hidden; 
 }
 
 .navbar {
   padding: .8rem; /*1 rem = 16 pixel*/
 }
 
+.bg-company-red {
+  background-color: red;
+}
+
+.navbar img {
+  width: 220px;
+  height: 58px;
+}
+
 .navbar-nav li {
   padding-right: 20px;
+  font-size: 14.5px;
+  font-weight: 400;
 }
 
 .nav-link {
-  font-size: 1.1em !important;
+  font-size: 1em !important;
 }
 
 .carousel-inner img {
@@ -131,8 +143,8 @@ html, body {
 }
 
 footer {
-  background-color: #3f3f3f;
-  color: #d5d5d5;
+  background-color: #f2f2f2;
+  color: #636363;
   padding-top: 2rem;
 }
 
@@ -141,6 +153,10 @@ hr.light{
   width: 75%;
   margin-top: .8rem;
   margin-bottom: 1rem;
+}
+
+footer p {
+  
 }
 
 footer a {
