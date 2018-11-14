@@ -10,10 +10,25 @@ html, body {
 
 .navbar {
   padding: .8rem; /*1 rem = 16 pixel*/
+  padding-left:30px;
+}
+
+.navbar-toggler {
+  border-color: white !important;
+}
+
+/*
+.collapse ul li a {
+  color: white;
+}
+*/
+
+a:hover {
+  color: #fdf640 !important;
 }
 
 .bg-company-red {
-  background-color: red;
+  background-color: #e62424;
 }
 
 .navbar img {
@@ -67,8 +82,16 @@ html, body {
 }
 
 .jumbotron {
-  padding: 1rem;
+  padding: .0rem;
   border-radius: 0;
+  text-align: center;
+  background-color: #182e49;
+  color: white;
+}
+
+p.lead {
+  font-size: 18px;
+  padding: .2rem;
 }
 
 .padding {
@@ -173,10 +196,18 @@ hr.light-100 {
 
 /*---Media Queries --*/
 @media (max-width: 992px) {
+  .navbar {
+    padding: .8rem; /*1 rem = 16 pixel*/
+  }
+
   .social a {
     top: 45%;
   }
 @media (max-width: 768px) {
+  .navbar {
+    padding: .8rem; /*1 rem = 16 pixel*/
+  }
+
   .carousel-caption {
     top: 45%;
   }
@@ -207,6 +238,10 @@ hr.light-100 {
 }
 
 @media (max-width: 576px) {
+  .navbar {
+    padding: .8rem; /*1 rem = 16 pixel*/
+  }
+
   .carousel-caption {
     top: 40%;
   }
