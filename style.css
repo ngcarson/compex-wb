@@ -144,6 +144,19 @@ p.lead {
   padding-bottom: 2rem;
 }
 
+h1.display-4 {
+  font-size: 150%;
+  font-weight: 400;
+}
+
+#bank-1 {
+ font-size: 14px;
+}
+
+#fb-link:hover {
+  background-color: blue;
+}
+
 .welcome {
   width: 75%;
   margin: 0 auto;
@@ -151,8 +164,8 @@ p.lead {
 }
 
 .welcome hr{
-  border-top: 2px solid #b4b4b4;
-  width: 95%;
+  border-top: 1px solid #b4b4b4;
+  width: 100%;
   margin-top: .3rem;
   margin-bottom: 1rem;
 }
