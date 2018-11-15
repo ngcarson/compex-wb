@@ -55,7 +55,11 @@ a:hover {
   color: yellow;
 }
 
-.fa-truck, .fa-shopping-cart, .fa-tag {
+.fa-cart {
+  color: white;
+}
+
+.fa-truck, .fa-laptop, .fa-tag, .fa-calendar-check {
   color: yellow;
 }
 
