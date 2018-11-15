@@ -8,6 +8,15 @@ html, body {
   overflow-x: hidden; 
 }
 
+.carousel-item img {
+  position: relative;
+  top: 0;
+  left: 0;
+  max-height: 400px;
+  padding-right: 2rem;
+  padding-left: 2rem;
+}
+
 .navbar {
   padding: .8rem; /*1 rem = 16 pixel*/
   padding-left:30px;
@@ -233,6 +242,14 @@ hr.light-100 {
 
 /*---Media Queries --*/
 @media (max-width: 992px) {
+  .carousel-item img {
+    position: relative;
+    top: 0;
+    left: 0;
+    max-height: 400px;
+    padding: 0rem;
+  }
+
   .navbar {
     padding: .8rem; /*1 rem = 16 pixel*/
   }
@@ -247,16 +264,6 @@ hr.light-100 {
 
   .carousel-caption {
     top: 45%;
-  }
-
-  .carousel-caption h1 {
-    font-size: 350%;
-  }
-
-  .carousel-caption h3 {
-    font-size: 140%;
-    font-weight: 400;
-    padding-bottom: .2rem;
   }
 
   .carousel-caption .btn {
