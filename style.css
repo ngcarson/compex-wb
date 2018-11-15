@@ -24,11 +24,12 @@ html, body {
 */
 
 a:hover {
-  color: #fdf640 !important;
+  color: white !important;
 }
 
 .bg-company-red {
-  background-color: #e62424;
+  /*background-color: #e62424;*/
+  background-color: #dd1e1e;
 }
 
 .navbar img {
@@ -44,6 +45,27 @@ a:hover {
 
 .nav-link {
   font-size: 1em !important;
+}
+
+.fa-search {
+  color: white;
+}
+
+.banner-text {
+  color: yellow;
+}
+
+.fa-truck, .fa-shopping-cart, .fa-tag {
+  color: yellow;
+}
+
+span.regular {
+  color: yellow;
+}
+
+span.extrabold {
+  font-weight: 1;
+  color: white;
 }
 
 .carousel-inner img {
@@ -82,11 +104,22 @@ a:hover {
 }
 
 .jumbotron {
-  padding: .0rem;
+  padding: .1rem;
   border-radius: 0;
-  text-align: center;
   background-color: #182e49;
-  color: white;
+  padding-top: 1rem;
+  text-align: center;
+}
+
+li.banner {
+  display: inline-block;
+  text-transform: uppercase;
+  font-size: 15px;
+  padding-right: 2rem;
+}
+
+span.extrabold {
+  font-weight: 5px !important;
 }
 
 p.lead {
@@ -240,6 +273,12 @@ hr.light-100 {
 @media (max-width: 576px) {
   .navbar {
     padding: .8rem; /*1 rem = 16 pixel*/
+  }
+
+  li.banner {
+    text-transform: uppercase;
+    font-size: 15px;
+    padding-right: 0rem;
   }
 
   .carousel-caption {
