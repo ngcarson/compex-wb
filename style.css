@@ -197,7 +197,7 @@ h1.display-4 {
 }
 
 .social a {
-  font-size: 4.5em;
+  font-size: 2em;
   padding: 3rem;
 }
 
@@ -225,10 +225,21 @@ h1.display-4 {
   color: #d5d5d5;
 }
 
+#footer-section {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
 footer {
   background-color: #f2f2f2;
   color: #636363;
   padding-top: 2rem;
+  font-size: 14px;
+  text-align: left;
+}
+
+h6 {
+  font-size: 14px;
 }
 
 hr.light{
@@ -238,8 +249,9 @@ hr.light{
   margin-bottom: 1rem;
 }
 
-footer p {
-  
+.light p {
+  text-align: left;
+  margin-left: 5rem;
 }
 
 footer a {
@@ -251,6 +263,15 @@ hr.light-100 {
   width: 75%;
   margin-top: .8rem;
   margin-bottom: 1rem;
+}
+
+#quick-links {
+  list-style-type: none;
+  margin-right: 3rem;
+}
+
+#example-email-input {
+  padding-left: -2rem;
 }
 
 /*---Media Queries --*/
