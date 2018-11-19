@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
 
-/* *{ border: 1px solid red; } */
+/**{ border: 1px solid red; }*/
 
 html, body {
   height: 100%;
@@ -212,7 +212,6 @@ div.display-4 {
 
 .social a {
   font-size: 2em;
-  padding-top: 3rem;
   padding-left: .5rem;
   padding-right: .5rem;
 }
@@ -501,7 +500,7 @@ a.btn-card {
 
   .social a{
     font-size: 2em;
-    padding: .7rem;
+    padding: .6rem;
   }
 
   #c-1975{
