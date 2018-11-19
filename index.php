@@ -1,313 +1,50 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Complete Bootstrap 4 Website Layout</title>
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-	<script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
-	<link href="style.css" rel="stylesheet">
-</head>
-
-<body>
-<!-- Navigation -->
-<nav class="navbar navbar-expand-lg navbar-dark sticky-top bg-company-red">
-	<a class="navbar-brand" href="#"><img src="img/logo-white.png"></a>
-		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-			<span class="navbar-toggler-icon"></span>
-		</button>
-
-	<div class="collapse navbar-collapse" id="navbarSupportedContent">
-		<ul class="navbar-nav ml-auto">
-			<li class="nav-item active">
-					<a class="nav-link" href="#">HOME</a>
-			</li>
-			<li class="nav-item">
-				<div class="btn-group">
-					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">SHOP</a>
-					<div class="dropdown-menu">
-			    	<a class="dropdown-item" href="#">Smart Phones & Tablets</a>
-			    	<a class="dropdown-item" href="#">Laptops & Desktops</a>
-			    	<a class="dropdown-item" href="#">Computer Accessories</a>
-			    	<a class="dropdown-item" href="#">Cameras & Camcorders</a>
-			    	<a class="dropdown-item" href="#">Office Equipments</a>
-			    	<a class="dropdown-item" href="#">Printers & Inks</a>
-			    	<a class="dropdown-item" href="#">Smart Home & Car Products</a>
-			    	<a class="dropdown-item" href="#">Speakers & Headphones</a>
-			    	<a class="dropdown-item" href="#">Storage & Flash</a>
-			    	<a class="dropdown-item" href="#">Furnitures</a>
-			    	<div class="dropdown-divider"></div>
-			    	<a class="dropdown-item" href="#">COMPEX SPECIAL DEALS</a>
-			  	</div>
-			  </div>
-			</li>
-			<li class="nav-item">
-					<a class="nav-link" href="#" data-toggle="modal" data-target="#exampleModal2">CONTACT US</a>
-			</li>
-			<li class="nav-item">
-					<a class="nav-link" href="#" data-toggle="modal" data-target="#exampleModal">BANK DETAIL</a>
-			</li>
-			<li class="nav-item">
-					<a class="nav-link" href="#"><i class="fa fa-shopping-cart"></i> CART</a>
-			</li>
-		</ul>
-    <form class="input-group col-md-4">
-      <input class="form-control py-2 btn-outline-light" type="search" value="Search" id="example-search-input">
-      <span class="input-group-append">
-        <button class="btn btn-outline-light" type="submit">
-            <i class="fa fa-search"></i>
-        </button>
-      </span>
-		</form>
-	</div>
-</nav>
-
-<!-- Modal For Bank Details -->
-<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">BANK DETAILS</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <p id="bank-1">Bank: Banco De Oro (BDO)<br>
-				Branch: Quezon Avenue - Cordillera<br>
-				Account No: 277-0052930<br>
-				Account Name: COMPEX Q.C., INC.</p>
-				<p id="bank-1">Bank: China Bank<br>
-				Branch: Quezon Avenue - Cordillera<br>
-				Account Number: 1071208568<br>
-				Account Name: COMPEX Q.C.,INC.- MAIN</p>
-				<p id="bank-1">Bank: Bank of the Philippine Islands (BPI)<br>
-				Branch: Q.C. Sto. Domingo<br>
-				Account Number: 000213404105<br>
-				Account Name: COMPEX QC INC</p>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- Modal For Contact Us -->
-<div class="modal fade" id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel2" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel2">CONTACT US</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <p id="contact-1">
-	        Email:  sales@compex.com.ph<br>
-					Landline: 711-0288<br>
-					Globe: 0917-829-0288<br>
-					Smart: 0999-993-1498<br>
-					Fax: 711-0614<br>
-					Facebook: <a href="http://www.facebook.com/compexinternational" id="fb-link">Visit Us</a></p>
-				<hr class="light" id="border-collection">
-				<p id="contact-1">
-					Address:<br>
-					341 GBW Bldg. Quezon Avenue<br>
-					Quezon City, Philippines
-				</p>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!--- Jumbotron -->
-<div class="jumbotron jumbotron-fluid">
-  <div class="container-fluid">
-    <ul class="font-xxs uppercase">
-			<li class="banner">
-				<a href="#">
-					<i class="fa fa-tag"></i>
-					<span class="regular">Lowest Price </span>
-					<span class="extrabold">Guarantee</span>
-				</a>
-			</li>
-			<li class="banner">
-				<a href="#">
-					<i class="fa fa-laptop"></i>
-					<span class="regular">Reserve Online </span>
-					<span class="extrabold">Pick Up In-Store</span>
-				</a>
-			</li>
-			<li class="banner">
-				<a href="#">
-					<i class="fa fa-truck"></i>
-					<span class="regular">Shipping </span>
-					<span class="extrabold">Available</span>
-				</a>
-			</li>
-			<li class="banner">
-				<a href="#">
-					<i class="fa fa-calendar-check"></i>
-					<span class="regular">Order </span>
-					<span class="extrabold">Status</span>
-				</a>
-			</li>
-		</ul>
-  </div>
-</div>
+<?php include("menu.php"); ?>
 
 <!--- Image Slider -->
 <div id="slides" class="carousel slide" data-ride="carousel">
-	<ul class="carousel-indicators">
-		<li data-target="#slides" data-slide-to="0" class="active"></li>
-		<li data-target="#slides" data-slide-to="1"></li>
-		<li data-target="#slides" data-slide-to="2"></li>
-	</ul>
-	
-	<div class="carousel-inner">
-		<div class="carousel-item active">
-			<img src="img/background.png">
-			<div class="carousel-caption">
-				<h1 class="display-2">PRODUCT NAME</h1>
-				<h3>Short Detailed Specs</h3>
-				<button type="button" class="btn btn-primary">SHOP NOW</button>
-			</div>
-		</div>
-		<div class="carousel-item">
-			<img src="img/background2.png">
-			<div class="carousel-caption">
-				<h1 class="display-2">PRODUCT NAME</h1>
-				<h3>Short Detailed Specs</h3>
-				<button type="button" class="btn btn-primary">SHOP NOW</button>
-			</div>
-		</div>
-		<div class="carousel-item">
-			<img src="img/background3.png">
-			<div class="carousel-caption">
-				<h1 class="display-2">PRODUCT NAME</h1>
-				<h3>Short Detailed Specs</h3>
-				<button type="button" class="btn btn-primary">LEARN MORE</button>
-			</div>
-		</div>
-	</div>
+  <ul class="carousel-indicators">
+    <li data-target="#slides" data-slide-to="0" class="active"></li>
+    <li data-target="#slides" data-slide-to="1"></li>
+    <li data-target="#slides" data-slide-to="2"></li>
+  </ul>
+  
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="img/background.png">
+      <div class="carousel-caption">
+        <h1 class="display-2">PRODUCT NAME</h1>
+        <h3>Short Detailed Specs</h3>
+        <button type="button" class="btn btn-primary">SHOP NOW</button>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="img/background2.png">
+      <div class="carousel-caption">
+        <h1 class="display-2">PRODUCT NAME</h1>
+        <h3>Short Detailed Specs</h3>
+        <button type="button" class="btn btn-primary">SHOP NOW</button>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="img/background3.png">
+      <div class="carousel-caption">
+        <h1 class="display-2">PRODUCT NAME</h1>
+        <h3>Short Detailed Specs</h3>
+        <button type="button" class="btn btn-primary">LEARN MORE</button>
+      </div>
+    </div>
+  </div>
 
-	<a class="carousel-control-prev" href="#slides" role="button" data-slide="prev">
-		<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-		<span class="sr-only">Previous</span>
-	</a>
-	<a class="carousel-control-next" href="#slides" role="button" data-slide="next">
-		<span class="carousel-control-next-icon" aria-hidden="true"></span>
-		<span class="sr-only">Next</span>
-	</a>
-</div>
-
-<!--- Welcome Section 
-<div class="container-fluid padding">
-<div class="row welcome text-center">
-	<div class="col-12">
-		<h1 class="display-4">Built with ease.</h1>
-	</div>
-	<hr>
-	<div class="col-12">
-		<p class="lead">Welcome to my Bootstrap 4 website tutorial! Bootstrap is a free and open-source front-end library with HTML and CSS based designs.</p>
-	</div>
-</div>
+  <a class="carousel-control-prev" href="#slides" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#slides" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
 </div>
 
-<!--- Three Column Section 
-<div class="container-fluid padding">
-<div class="row text-center padding">
-	<div class="col-xs-12 col-sm-6 col-md-4">
-		<i class="fas fa-code"></i>
-		<h3>HTML5</h3>
-		<p>Built with the latest version of HTML, HTML5.</p>
-	</div>
-	<div class="col-xs-12 col-sm-6 col-md-4">
-		<i class="fas fa-bold"></i>
-		<h3>BOOTSTRAP</h3>
-		<p>Built with the latest version of Bootstrap, Bootstrap4.</p>
-	</div>
-	<div class="col-sm-12 col-md-4">
-		<i class="fab fa-css3"></i>
-		<h3>CSS3</h3>
-		<p>Built with the latest version of CSS, CSS3.</p>
-	</div>
-</div>
-<hr class="my-4">
-</div>
-
-<!--- Two Column Section 
-<div class="container-fluid padding">
-<div class="row padding">
-	<div class="col-md-12 col-lg-6">
-		<h2>If you build it...</h2>
-		<p>The columns will automatically stack on top of each other when the screen is less than 576px wide.</p>
-		<p>Resize the browser window to see the effect. Responsive web design has become more important as the amount of mobile traffic now accounts for more than half of total internet traffic.</p>
-		<p>It can also display the web page differently depending on the screen size or viewing device.</p>
-		<br>
-		<a href="#" class="btn btn-primary">Learn More</a>
-	</div>
-	<div class="col-lg-6">
-		<img src="img/desk.png" class="img-fluid">
-	</div>
-</div>
-</div>
-
-<hr class="my-4">
-<!--- Fixed background 
-<figure>
-	<div class="fixed-wrap">
-		<div id="fixed">
-		</div>
-	</div>
-</figure>
-
-<!--- Emoji Section 
-<button class="fun" data-toggle="collapse" data-target="#emoji">Click for fun
-</button>
-<div id="emoji" class="collapse">
-	<div class="container-fluid padding">
-		<div class="row text-center">
-			<div class="col-sm-6 col-md-3">
-				<img class="gif" src="img/gif/panda.gif">
-			</div>
-			<div class="col-sm-6 col-md-3">
-				<img class="gif" src="img/gif/poo.gif">
-			</div>
-			<div class="col-sm-6 col-md-3">
-				<img class="gif" src="img/gif/unicorn.gif">
-			</div>
-			<div class="col-sm-6 col-md-3">
-				<img class="gif" src="img/gif/chicken.gif">
-			</div>
-		</div>
-	</div>
-</div>
-
-<!--- Two Column Section 
-<div class="container-fluid padding">
-<div class="row padding">
-	<div class="col-md-12 col-lg-6">
-		<h2>Our Philosophy</h2>
-		<p>We know that greatness in a disruptive era requires bold ambition, curious tatelent and a culture that believes we're smarter together.</p>
-		<p>We approach every challenge holistically, with best-in-class expertise in data, creativity, media, technology, search, social and more. We call this Alchemy. It has the pwoer to build our clients' brands and transform their business. And while it may seem magic, we've got it down to a science.</p>
-		<br>
-	</div>
-	<div class="col-lg-6">
-		<img src="img/bootstrap2.png" class="img-fluid">
-	</div>
-</div>
-<hr class="my-4">
-</div>
--->
 <!-- details card section starts from here -->
 <section class="details-card">
 	<!-- OFFICE EQUIPMENT DEALS -->
@@ -796,55 +533,104 @@
 </section>
 <!-- details card section starts from here -->
 
-<!--- Footer -->
-<footer>
-<div class="container-fluid padding" id="footer-section">
-<div class="row text-center">
-	<div class="col-md-4">
-		<hr class="light">
-		<h6>QUICK LINKS</h6>
-		<hr class="light">
-		<ul id="quick-links">
-			<li><a href="#">Search</a></li>
-			<li><a href="#">About Us</a></li>
-			<li><a href="#" data-toggle="modal" data-target="#exampleModal">Our Bank Details</a></li>
-			<li><a href="#">FAQs</a></li>
-			<li><a href="#">Refund Policy</a></li>
-			<li><a href="#">Privacy Policy</a></li>
-			<li><a href="#">Terms of Service</a></li>
-		</ul>
+<!--- Welcome Section 
+<div class="container-fluid padding">
+<div class="row welcome text-center">
+	<div class="col-12">
+		<h1 class="display-4">Built with ease.</h1>
 	</div>
-	<div class="col-md-4">
-		<hr class="light">
-		<h6>LOOKING FOR AN ITEM?</h6>
-		<hr class="light">
-		<p id="look-for-item">Message Us Now!</p>
-		<p><a class="btn btn-outline-dark" data-toggle="modal" data-target="#exampleModal2">CONTACT US</a></p>
-		<p id="price-change-notice">Prices subject to change without prior notice.</p>
+	<hr>
+	<div class="col-12">
+		<p class="lead">Welcome to my Bootstrap 4 website tutorial! Bootstrap is a free and open-source front-end library with HTML and CSS based designs.</p>
 	</div>
-	<div class="col-md-4">
-		<hr class="light">
-		<h6>KEEP UPDATED WITH PROMOS!</h6>
-		<hr class="light">
-		<p id="promo-details">Promotions, new products and sales.<br>Directly to your inbox!</p>
-		<form class="input-group col-md-12" id="example-email-input">
-	    <input class="form-control py-2 btn-outline-dark" type="email" placeholder="Enter email" >
-	    <span class="input-group-append"><button class="btn btn-success" type="submit">Sign Up</button></span>
-	    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
-		</form>
+</div>
+</div>
+
+<!--- Three Column Section 
+<div class="container-fluid padding">
+<div class="row text-center padding">
+	<div class="col-xs-12 col-sm-6 col-md-4">
+		<i class="fas fa-code"></i>
+		<h3>HTML5</h3>
+		<p>Built with the latest version of HTML, HTML5.</p>
 	</div>
-	<div class="col-12" id="c-1975">
-		<hr class="light">
-		<h6>&copy;1975 Compex International Inc.</h6>
-		<div class="col-12 social">
-			<a href="#"><i class="fab fa-facebook"></i></a>
-			<a href="#"><i class="fab fa-twitter"></i></a>
-			<a href="#"><i class="fab fa-instagram"></i></a>
-			<a href="#"><i class="fab fa-youtube"></i></a>
+	<div class="col-xs-12 col-sm-6 col-md-4">
+		<i class="fas fa-bold"></i>
+		<h3>BOOTSTRAP</h3>
+		<p>Built with the latest version of Bootstrap, Bootstrap4.</p>
+	</div>
+	<div class="col-sm-12 col-md-4">
+		<i class="fab fa-css3"></i>
+		<h3>CSS3</h3>
+		<p>Built with the latest version of CSS, CSS3.</p>
+	</div>
+</div>
+<hr class="my-4">
+</div>
+
+<!--- Two Column Section 
+<div class="container-fluid padding">
+<div class="row padding">
+	<div class="col-md-12 col-lg-6">
+		<h2>If you build it...</h2>
+		<p>The columns will automatically stack on top of each other when the screen is less than 576px wide.</p>
+		<p>Resize the browser window to see the effect. Responsive web design has become more important as the amount of mobile traffic now accounts for more than half of total internet traffic.</p>
+		<p>It can also display the web page differently depending on the screen size or viewing device.</p>
+		<br>
+		<a href="#" class="btn btn-primary">Learn More</a>
+	</div>
+	<div class="col-lg-6">
+		<img src="img/desk.png" class="img-fluid">
+	</div>
+</div>
+</div>
+
+<hr class="my-4">
+<!--- Fixed background 
+<figure>
+	<div class="fixed-wrap">
+		<div id="fixed">
+		</div>
+	</div>
+</figure>
+
+<!--- Emoji Section 
+<button class="fun" data-toggle="collapse" data-target="#emoji">Click for fun
+</button>
+<div id="emoji" class="collapse">
+	<div class="container-fluid padding">
+		<div class="row text-center">
+			<div class="col-sm-6 col-md-3">
+				<img class="gif" src="img/gif/panda.gif">
+			</div>
+			<div class="col-sm-6 col-md-3">
+				<img class="gif" src="img/gif/poo.gif">
+			</div>
+			<div class="col-sm-6 col-md-3">
+				<img class="gif" src="img/gif/unicorn.gif">
+			</div>
+			<div class="col-sm-6 col-md-3">
+				<img class="gif" src="img/gif/chicken.gif">
+			</div>
 		</div>
 	</div>
 </div>
+
+<!--- Two Column Section 
+<div class="container-fluid padding">
+<div class="row padding">
+	<div class="col-md-12 col-lg-6">
+		<h2>Our Philosophy</h2>
+		<p>We know that greatness in a disruptive era requires bold ambition, curious tatelent and a culture that believes we're smarter together.</p>
+		<p>We approach every challenge holistically, with best-in-class expertise in data, creativity, media, technology, search, social and more. We call this Alchemy. It has the pwoer to build our clients' brands and transform their business. And while it may seem magic, we've got it down to a science.</p>
+		<br>
+	</div>
+	<div class="col-lg-6">
+		<img src="img/bootstrap2.png" class="img-fluid">
+	</div>
 </div>
-</footer>
-</body>
-</html>
+<hr class="my-4">
+</div>
+-->
+
+<?php include("footer.php"); ?>
