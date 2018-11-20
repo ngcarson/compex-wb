@@ -1,14 +1,13 @@
-
-<b>RESERVE ONLINE PICK UP IN-STORE</b><br>
+<h6><b>RESERVE ONLINE PICK UP IN-STORE</b></h6>
 <br>
 ARE YOU LOOKING FOR A PRODUCT?<br>
-Send us an email, and we shall find the product for you at the lowest price!<br>
-sales@compex.com.ph<br>
+Email us and we shall find the product for you at the lowest price!<br>
+<a href="mailto:sales@compex.com.ph" id="email-to">sales@compex.com.ph</a><br>
 <br>
-Or, message us on Facebook!<br>
-<a id="reserve-hover" href="https://www.facebook.com/compexinternational/">Click Here!</a><br>
-<br>
-<b>OUR BRANCHES</b><br>
+OR, message us on Facebook!<br>
+<a href="https://www.facebook.com/compexinternational/" class="btn btn-primary btn-md" role="button" aria-pressed="true">Click Here</a><br>
+<br><br>
+<h6><b>OUR BRANCHES</b></h6>
 <br>
 COMPEX QUEZON AVENUE<br>
 341 GBW Bldg. Quezon Avenue, Quezon City<br>

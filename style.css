@@ -61,6 +61,14 @@ a:hover {
   color: red !important;
 }
 
+#reserve-hover:hover {
+  color: red !important;
+}
+
+#email-to:hover {
+  color: red !important;
+}
+
 .bg-company-red {
   /*background-color: #e62424;*/
   background-color: #dd1e1e;
@@ -147,11 +155,11 @@ span.extrabold {
 }
 
 .jumbotron {
-  padding: .1rem;
+  padding: 0rem;
   border-radius: 0;
   background-color: #182e49;
-  padding-top: 1rem;
   text-align: center;
+  padding-top: .2rem;
 }
 
 li.banner {

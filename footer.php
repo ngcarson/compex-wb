@@ -12,7 +12,7 @@
 			<li><a href="faq.php">FAQs</a></li>
 			<li><a href="refund-policy.php">Refund Policy</a></li>
 			<li><a href="privacy-policy">Privacy Policy</a></li>
-			<li><a href="terms-service">Terms of Service</a></li>
+			<li><a href="terms-service">Terms Of Service</a></li>
 		</ul>
 	</div>
 	<div class="col-md-4">
