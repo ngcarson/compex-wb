@@ -51,7 +51,7 @@
 					<a class="nav-link" href="#" data-toggle="modal" data-target="#exampleModal">BANK DETAIL</a>
 			</li>
 			<li class="nav-item">
-					<a class="nav-link" href="#"><i class="fa fa-shopping-cart"></i> CART</a>
+					<a class="nav-link" href="cart.php"><i class="fa fa-shopping-cart"></i> CART</a>
 			</li>
 		</ul>
     <form class="input-group col-md-4">
@@ -117,6 +117,26 @@
   </div>
 </div>
 
+<!-- Modal For Shipping Options -->
+<div class="modal fade" id="exampleModal3" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel3" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel3">SHIPPING OPTIONS</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <?php echo file_get_contents('shipping-options.txt') ?>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
 <!--- Jumbotron -->
 <div class="jumbotron jumbotron-fluid">
   <div class="container-fluid">
@@ -136,7 +156,7 @@
 				</a>
 			</li>
 			<li class="banner">
-				<a href="shipping-details.php">
+				<a href="#" class="nav-link" href="#" data-toggle="modal" data-target="#exampleModal3">
 					<i class="fa fa-truck"></i>
 					<span class="regular">Shipping </span>
 					<span class="extrabold">Available</span>

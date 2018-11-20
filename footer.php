@@ -29,8 +29,10 @@
 		<hr class="light">
 		<p id="promo-details">Promotions, new products and sales.<br>Directly to your inbox!</p>
 		<form class="input-group col-md-12" id="example-email-input">
-	    <input class="form-control py-2 btn-outline-dark" type="email" placeholder="Enter email" >
-	    <span class="input-group-append"><button class="btn btn-success" type="submit">Sign Up</button></span>
+	    <input class="form-control py-2 btn-outline-dark" type="email" placeholder="Enter email" id="sign-up">
+	    	<span class="input-group-append">
+	    		<button type="submit" class="btn btn-success">Sign Up</button>
+	    	</span>
 	    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
 		</form>
 	</div>
