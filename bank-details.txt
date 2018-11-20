@@ -1,0 +1,14 @@
+Bank: Banco De Oro (BDO)<br>
+Branch: Quezon Avenue - Cordillera<br>
+Account No: 277-0052930<br>
+Account Name: COMPEX Q.C., INC.<br>
+<br>
+Bank: China Bank<br>
+Branch: Quezon Avenue - Cordillera<br>
+Account Number: 1071208568<br>
+Account Name: COMPEX Q.C.,INC.- MAIN<br>
+<br>
+Bank: Bank of the Philippine Islands (BPI)<br>
+Branch: Q.C. Sto. Domingo<br>
+Account Number: 000213404105<br>
+Account Name: COMPEX QC INC<br>

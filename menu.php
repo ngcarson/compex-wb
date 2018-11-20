@@ -55,7 +55,7 @@
 			</li>
 		</ul>
     <form class="input-group col-md-4">
-      <input class="form-control py-2 btn-outline-light" type="search" value="Search" id="example-search-input">
+      <input class="form-control py-2 btn-outline-light" type="search" placeholder="Search products" id="example-search-input">
       <span class="input-group-append">
         <button class="btn btn-outline-light" type="submit">
             <i class="fa fa-search"></i>
@@ -76,18 +76,7 @@
         </button>
       </div>
       <div class="modal-body">
-        <p id="bank-1">Bank: Banco De Oro (BDO)<br>
-				Branch: Quezon Avenue - Cordillera<br>
-				Account No: 277-0052930<br>
-				Account Name: COMPEX Q.C., INC.</p>
-				<p id="bank-1">Bank: China Bank<br>
-				Branch: Quezon Avenue - Cordillera<br>
-				Account Number: 1071208568<br>
-				Account Name: COMPEX Q.C.,INC.- MAIN</p>
-				<p id="bank-1">Bank: Bank of the Philippine Islands (BPI)<br>
-				Branch: Q.C. Sto. Domingo<br>
-				Account Number: 000213404105<br>
-				Account Name: COMPEX QC INC</p>
+        <?php echo file_get_contents('bank-details.txt') ?>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
@@ -140,14 +129,14 @@
 				</a>
 			</li>
 			<li class="banner">
-				<a href="#">
+				<a href="reserve-online.php">
 					<i class="fa fa-laptop"></i>
 					<span class="regular">Reserve Online </span>
 					<span class="extrabold">Pick Up In-Store</span>
 				</a>
 			</li>
 			<li class="banner">
-				<a href="#">
+				<a href="shipping-details.php">
 					<i class="fa fa-truck"></i>
 					<span class="regular">Shipping </span>
 					<span class="extrabold">Available</span>

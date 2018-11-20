@@ -6,13 +6,13 @@
 		<h6>QUICK LINKS</h6>
 		<hr class="light">
 		<ul id="quick-links">
-			<li><a href="#">Search</a></li>
-			<li><a href="#">About Us</a></li>
+			<li><a href="search.php">Search</a></li>
+			<li><a href="about-us.php">About Us</a></li>
 			<li><a href="#" data-toggle="modal" data-target="#exampleModal">Our Bank Details</a></li>
-			<li><a href="#">FAQs</a></li>
-			<li><a href="#">Refund Policy</a></li>
-			<li><a href="#">Privacy Policy</a></li>
-			<li><a href="#">Terms of Service</a></li>
+			<li><a href="faq.php">FAQs</a></li>
+			<li><a href="refund-policy.php">Refund Policy</a></li>
+			<li><a href="privacy-policy">Privacy Policy</a></li>
+			<li><a href="terms-service">Terms of Service</a></li>
 		</ul>
 	</div>
 	<div class="col-md-4">

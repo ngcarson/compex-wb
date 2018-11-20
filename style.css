@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
 
-/**{ border: 1px solid red; }*/
+/* *{ border: 1px solid red; } */
 
 html, body {
   height: 100%;
@@ -8,6 +8,25 @@ html, body {
   font-family: 'Montserrat', sans-serif;
   color: #222;
   overflow-x: hidden;
+}
+
+#compex-store {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 40%;
+}
+
+#txt-file {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  color: #4d4d4d;
+  font-size: 14px;
+  text-align: justify;
+  margin-left: 10rem;
+  margin-right: 10rem;
+  margin-top: 3rem;
+  padding: 1rem;
 }
 
 .carousel-item img {
@@ -36,6 +55,10 @@ html, body {
 
 a:hover {
   color: white !important;
+}
+
+#txt-file-hover:hover {
+  color: red !important;
 }
 
 .bg-company-red {
@@ -306,6 +329,77 @@ hr.light-100 {
   font-style: italic;
 }
 
+/* Search Page */
+#search-title {
+  padding: 1rem;
+  text-align: center;
+  font-weight: 600;
+}
+
+#search-input-whole {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2rem;
+}
+
+#search-input {
+  background-color: #4d4d4d;
+}
+
+#search-page-icon {
+  color: #4d4d4d;
+}
+
+::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+  color: white !important;
+}
+
+input:hover::-webkit-input-placeholder {
+  color: #636363 !important;
+}
+
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+  color: white !important;
+  opacity: 1 !important;
+}
+
+input:hover:-moz-placeholder {
+  color: #636363 !important;
+}
+
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+  color: white !important;
+  opacity: 1 !important;
+}
+
+input:hover::-moz-placeholder {
+  color: #636363 !important;
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: white !important;
+}
+
+input:hover:-ms-input-placeholder {
+  color: #636363 !important;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+  color: white !important;
+}
+
+input:hover::-ms-input-placeholder {
+  color: #636363 !important;
+}
+
+::placeholder { /* Most modern browsers support this now. */
+  color: white !important;
+}
+
+input:hover::placeholder {
+  color: #636363 !important;
+}
+
 /* card details start  */
 @import url('https://fonts.googleapis.com/css?family=Raleway:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Roboto+Condensed:400,400i,700,700i');
 section{
@@ -419,6 +513,11 @@ a.btn-card {
 
 /*---Media Queries --*/
 @media (max-width: 992px) {
+  #txt-file {
+  margin-left: 5rem;
+  margin-right: 5rem;
+  }
+
   .carousel-item img {
     position: relative;
     top: 0;
@@ -460,6 +559,25 @@ a.btn-card {
 }
 
 @media (max-width: 576px) {
+  /* Search Page */
+  #search-title {
+    font-size: 16px;
+  }
+
+  #compex-store {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80%;
+  }
+
+  #txt-file {
+    margin-left: 0rem;
+    margin-top: 0rem;
+    margin-bottom: 1rem;
+    margin-right: 0rem;
+  }
+
   .navbar {
     padding: .8rem; /*1 rem = 16 pixel*/
   }
