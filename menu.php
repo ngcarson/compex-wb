@@ -9,7 +9,7 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 	<script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
-	<link href="style.css" rel="stylesheet">
+	<link href="css/style.css" rel="stylesheet">
 </head>
 
 <body>
@@ -51,7 +51,7 @@
 					<a class="nav-link" href="#" data-toggle="modal" data-target="#exampleModal">BANK DETAIL</a>
 			</li>
 			<li class="nav-item">
-					<a class="nav-link" href="cart.php"><i class="fa fa-shopping-cart"></i> CART</a>
+					<a class="nav-link" href="cart.php"><i class="fa fa-shopping-cart"></i> CART <span class="badge badge-secondary badge-pill">3</span></a>
 			</li>
 		</ul>
     <form class="input-group col-md-4">
@@ -138,7 +138,7 @@
 </div>
 
 <!--- Jumbotron -->
-<div class="jumbotron jumbotron-fluid">
+<div class="jumbotron jumbotron-fluid" id="jumbotron-main">
   <div class="container-fluid">
     <ul class="font-xxs uppercase">
 			<li class="banner">

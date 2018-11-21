@@ -523,11 +523,6 @@ a.btn-card {
 }
 /* End card section */
 
-/*Thank You Page */
-#thank-you {
-  background-color: white !important;
-}
-
 @media screen and (max-width: 600px) {
     table#cart tbody td .form-control{
     width:20%;
@@ -707,7 +702,6 @@ a.btn-card {
   -webkit-backface-visibility: visible;
   backface-visibility: visible;
 }
-
 /*--- Fixed Background Image --*/
 figure {
   position: relative;
@@ -715,7 +709,6 @@ figure {
   height: 60%;
   margin: 0!important;
 }
-
 .fixed-wrap {
   clip: rect(0, auto, auto, 0);
   position: absolute;
@@ -738,11 +731,14 @@ figure {
           transform: translateZ(0);
   will-change: transform;
 }
-
 /*--- Bootstrap Padding Fix --*/
 [class*="col-"] {
     padding: 1rem;
 }
+
+
+
+
 
 /*
 Extra small (xs) devices (portrait phones, less than 576px)

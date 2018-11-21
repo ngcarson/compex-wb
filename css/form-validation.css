@@ -1,0 +1,36 @@
+/* *{ border: 1px solid red; } */
+
+.container {
+  max-width: 960px;
+}
+
+.lh-condensed { line-height: 1.25; }
+
+#list-inline-item:hover {
+	color: red !important;
+}
+
+#checkout-logo {
+  width: 30%;
+  height: 30%;
+  padding-top: 1rem;
+}
+
+/*---Media Queries --*/
+@media (max-width: 992px) {
+#checkout-logo {
+}
+
+@media (max-width: 768px) {
+#checkout-logo {
+}
+
+@media (max-width: 576px) {
+#checkout-logo {
+	width: 70%;
+  height: 70%;
+	margin-top: -3rem;
+  margin-bottom: -3rem;
+}
+
+.
