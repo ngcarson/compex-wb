@@ -33,8 +33,8 @@
 	    	<span class="input-group-append">
 	    		<button type="submit" class="btn btn-success">Sign Up</button>
 	    	</span>
-	    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
 		</form>
+		<small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
 	</div>
 	<div class="col-12" id="c-1975">
 		<hr class="light">

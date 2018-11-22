@@ -4,12 +4,12 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Compex Consumer Electronics And Office Equipment Online Store</title>
+	<link href="css/style.css" rel="stylesheet">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 	<script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
-	<link href="css/style.css" rel="stylesheet">
 </head>
 
 <body>
@@ -29,7 +29,7 @@
 				<div class="btn-group">
 					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">SHOP</a>
 					<div class="dropdown-menu">
-			    	<a class="dropdown-item" href="#">Smart Phones & Tablets</a>
+			    	<a class="dropdown-item" href="products-smartphones-tablets">Smart Phones & Tablets</a>
 			    	<a class="dropdown-item" href="#">Laptops & Desktops</a>
 			    	<a class="dropdown-item" href="#">Computer Accessories</a>
 			    	<a class="dropdown-item" href="#">Cameras & Camcorders</a>
