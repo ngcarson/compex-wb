@@ -29,16 +29,16 @@
 				<div class="btn-group">
 					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">SHOP</a>
 					<div class="dropdown-menu">
-			    	<a class="dropdown-item" href="products-smartphones-tablets">Smart Phones & Tablets</a>
-			    	<a class="dropdown-item" href="#">Laptops & Desktops</a>
-			    	<a class="dropdown-item" href="#">Computer Accessories</a>
-			    	<a class="dropdown-item" href="#">Cameras & Camcorders</a>
-			    	<a class="dropdown-item" href="#">Office Equipments</a>
-			    	<a class="dropdown-item" href="#">Printers & Inks</a>
-			    	<a class="dropdown-item" href="#">Smart Home & Car Products</a>
-			    	<a class="dropdown-item" href="#">Speakers & Headphones</a>
-			    	<a class="dropdown-item" href="#">Storage & Flash</a>
-			    	<a class="dropdown-item" href="#">Furnitures</a>
+			    	<a class="dropdown-item" href="products-lists">Smart Phones & Tablets</a>
+			    	<a class="dropdown-item" href="products-lists">Laptops & Desktops</a>
+			    	<a class="dropdown-item" href="products-lists">Computer Accessories</a>
+			    	<a class="dropdown-item" href="products-lists">Cameras & Camcorders</a>
+			    	<a class="dropdown-item" href="products-lists">Office Equipments</a>
+			    	<a class="dropdown-item" href="products-lists">Printers & Inks</a>
+			    	<a class="dropdown-item" href="products-lists">Smart Home & Car Products</a>
+			    	<a class="dropdown-item" href="products-lists">Speakers & Headphones</a>
+			    	<a class="dropdown-item" href="products-lists">Storage & Flash</a>
+			    	<a class="dropdown-item" href="products-lists">Furnitures</a>
 			    	<div class="dropdown-divider"></div>
 			    	<a class="dropdown-item" href="#">COMPEX SPECIAL DEALS</a>
 			  	</div>

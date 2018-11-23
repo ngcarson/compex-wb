@@ -38,7 +38,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -52,7 +52,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -66,7 +66,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -80,7 +80,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>  
@@ -96,7 +96,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -110,7 +110,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -124,7 +124,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -138,7 +138,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -184,7 +184,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -198,7 +198,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -212,7 +212,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -226,7 +226,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>  
@@ -242,7 +242,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -256,7 +256,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -270,7 +270,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -284,7 +284,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -330,7 +330,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -344,7 +344,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -358,7 +358,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -372,7 +372,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>  
@@ -388,7 +388,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -402,7 +402,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -416,7 +416,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -430,7 +430,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -459,7 +459,7 @@
           <h5 class="title">Office Equipment For Business Needs</h5>
           <p>Consectetur adipisicing elit, sed do eiusmod
           tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, cLorem ipsum dolor sit amet, cLorem ipsum dolor sit amet, cLorem ipsum dolor sit amet, c</p>
-          <a href="#" class="btn btn-warning">See more</a>
+          <a href="products-view.php" class="btn btn-warning">See more</a>
           <img src="img/items/item-sm.png" height="200" class="img-bg zoom-in">
         </div>
       </article>
@@ -476,7 +476,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -490,7 +490,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -504,7 +504,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -518,7 +518,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>  
@@ -534,7 +534,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -548,7 +548,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -562,7 +562,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -576,7 +576,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -622,7 +622,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -636,7 +636,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -650,7 +650,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -664,7 +664,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>  
@@ -680,7 +680,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -694,7 +694,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -708,7 +708,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -722,7 +722,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -768,7 +768,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -782,7 +782,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -796,7 +796,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -810,7 +810,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>  
@@ -826,7 +826,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -840,7 +840,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -854,7 +854,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -868,7 +868,7 @@
                 <span class="price-new">$1280</span>
                 <del class="price-old">$1980</del>
               </div> <!-- price-wrap.// -->
-              <a href="#" class="btn btn-dark btn-sm">VIEW</a>
+              <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
               <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
             </div>
           </a>
@@ -898,6 +898,8 @@
         <span class="price-new">$1280</span>
         <del class="price-old">$1980</del>
       </div> <!-- price-wrap.// -->
+      <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
+      <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
     </figcaption>
   </figure> <!-- card // -->
 </div> <!-- col // -->
@@ -910,6 +912,8 @@
         <span class="price-new">$1280</span>
         <del class="price-old">$1980</del>
       </div> <!-- price-wrap.// -->
+      <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
+      <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
     </figcaption>
   </figure> <!-- card // -->
 </div> <!-- col // -->
@@ -922,6 +926,8 @@
         <span class="price-new">$1280</span>
         <del class="price-old">$1980</del>
       </div> <!-- price-wrap.// -->
+      <a href="products-view.php" class="btn btn-dark btn-sm">VIEW </a>
+      <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
     </figcaption>
   </figure> <!-- card // -->
 </div> <!-- col // -->
@@ -934,6 +940,8 @@
         <span class="price-new">$1280</span>
         <del class="price-old">$1980</del>
       </div> <!-- price-wrap.// -->
+      <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
+      <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
     </figcaption>
   </figure> <!-- card // -->
 </div> <!-- col // -->
@@ -946,6 +954,8 @@
         <span class="price-new">$1280</span>
         <del class="price-old">$1980</del>
       </div> <!-- price-wrap.// -->
+      <a href="products-view.php" class="btn btn-dark btn-sm">VIEW </a>
+      <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
     </figcaption>
   </figure> <!-- card // -->
 </div> <!-- col // -->
@@ -958,6 +968,8 @@
         <span class="price-new">$1280</span>
         <del class="price-old">$1980</del>
       </div> <!-- price-wrap.// -->
+      <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
+      <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
     </figcaption>
   </figure> <!-- card // -->
 </div> <!-- col // -->
@@ -970,6 +982,8 @@
         <span class="price-new">$1280</span>
         <del class="price-old">$1980</del>
       </div> <!-- price-wrap.// -->
+      <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
+      <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
     </figcaption>
   </figure> <!-- card // -->
 </div> <!-- col // -->
@@ -982,6 +996,8 @@
         <span class="price-new">$1280</span>
         <del class="price-old">$1980</del>
       </div> <!-- price-wrap.// -->
+      <a href="products-view.php" class="btn btn-dark btn-sm">VIEW</a>
+      <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-shopping-cart"></i> BUY</a>
     </figcaption>
   </figure> <!-- card // -->
 </div> <!-- col // -->
