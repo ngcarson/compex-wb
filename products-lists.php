@@ -1,32 +1,27 @@
 <?php include("menu.php"); ?>
 
-<!-- jQuery -->
-<script src="js/jquery-2.0.0.min.js" type="text/javascript"></script>
+<!-- CSS Custom Files -->
+<link rel="stylesheet" href="css/bootstrap.css">
+<link rel="stylesheet" href="css/ui.css">
+<link rel="stylesheet" href="css/responsive.css" media="only screen and (max-width: 1200px)">
+<link rel="stylesheet" href="fonts/fontawesome/css/fontawesome-all.min.css">
 
-<!-- Bootstrap4 files-->
-<link href="css/bootstrap.css" rel="stylesheet" type="text/css"/>
+<!-- CSS Plugins Files -->
+<link rel="stylesheet" href="plugins/fancybox/fancybox.min.css">
+<link rel="stylesheet" href="plugins/owlcarousel/assets/owl.carousel.min.css">
+<link rel="stylesheet" href="plugins/owlcarousel/assets/owl.theme.default.css">
 
-<!-- Font awesome 5 -->
-<link href="fonts/fontawesome/css/fontawesome-all.min.css" type="text/css" rel="stylesheet">
+<!-- JS Custom Files -->
+<script src="js/jquery-2.0.0.min.js"></script>
+<script src="js/script.js"></script>
+<script src="js/bootstrap.bundle.min.js"></script>
 
-<!-- plugin: fancybox  -->
-<script src="plugins/fancybox/fancybox.min.js" type="text/javascript"></script>
-<link href="plugins/fancybox/fancybox.min.css" type="text/css" rel="stylesheet">
-
-<!-- plugin: owl carousel  -->
-<link href="plugins/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-<link href="plugins/owlcarousel/assets/owl.theme.default.css" rel="stylesheet">
+<!-- JS Plugins Files -->
+<script src="plugins/fancybox/fancybox.min.js"></script>
 <script src="plugins/owlcarousel/owl.carousel.min.js"></script>
 
-<!-- custom style -->
-<link href="css/ui.css" rel="stylesheet" type="text/css"/>
-<link href="css/responsive.css" rel="stylesheet" media="only screen and (max-width: 1200px)" />
-
-<!-- custom javascript -->
-<script src="js/script.js" type="text/javascript"></script>
-
-<body>
 <!-- ========================= SECTION CONTENT ========================= -->
+<body>
 <section class="section-content bg padding-y-sm">
 <div class="container">
 <div class="card">
@@ -52,45 +47,31 @@
   <div class="col-md-21-24"> 
     <ul class="list-inline">
       <li class="list-inline-item dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">   Product type </a>
-            <div class="dropdown-menu p-3" style="max-width:400px;""> 
+            <div class="dropdown-menu p-3" style="max-width:400px;"> 
           <label class="form-check">
-            <a href="#">
-             <input type="checkbox" class="form-check-input"> Product type 1
-          </a>
+            <input type="checkbox" class="form-check-input"><a href="#">Product type 1</a>
           </label>
           <label class="form-check">
-            <a href="#">
-             <input type="checkbox" class="form-check-input"> Product type 2
-          </a>
+            <input type="checkbox" class="form-check-input"><a href="#">Product type 2</a>
           </label>
           <label class="form-check">
-            <a href="#">
-             <input type="checkbox" class="form-check-input"> Product type 3
-          </a>
+            <input type="checkbox" class="form-check-input"><a href="#">Product type 3</a>
           </label>
             </div> <!-- dropdown-menu.// -->
         </li>
         <li class="list-inline-item dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">  Brand name </a>
-            <div class="dropdown-menu p-3" style="max-width:400px;""> 
+            <div class="dropdown-menu p-3" style="max-width:400px;"> 
           <label class="form-check">
-            <a href="#">
-             <input type="checkbox" class="form-check-input"> Brand 1
-          </a>
+            <input type="checkbox" class="form-check-input"><a href="#">Brand 1</a>
           </label>
           <label class="form-check">
-            <a href="#">
-             <input type="checkbox" class="form-check-input"> Brand 2
-          </a>
+            <input type="checkbox" class="form-check-input"><a href="#">Brand 2</a>
           </label>
           <label class="form-check">
-            <a href="#">
-             <input type="checkbox" class="form-check-input"> Brand 3
-          </a>
+            <input type="checkbox" class="form-check-input"><a href="#">Brand 3</a>
           </label>
           <label class="form-check">
-            <a href="#">
-             <input type="checkbox" class="form-check-input"> Brand 4
-          </a>
+            <input type="checkbox" class="form-check-input"><a href="#">Brand 4</a>
           </label>
             </div> <!-- dropdown-menu.// -->
         </li>

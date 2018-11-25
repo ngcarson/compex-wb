@@ -9,10 +9,11 @@
       <li class="breadcrumb-item active" aria-current="page">Refund Policy</li>
     </ol>
   </nav>
+</div>
 
 <!-- Body Content -->
 <div id="txt-file">
-	<?php echo file_get_contents('refund-policy.txt') ?>
+	<?php echo file_get_contents('text/refund-policy.txt') ?>
 </div>
 
 <!-- Footer File -->

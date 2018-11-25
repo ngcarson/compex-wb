@@ -9,10 +9,11 @@
       <li class="breadcrumb-item active" aria-current="page">Privacy Policy</li>
     </ol>
   </nav>
+</div>
 
 <!-- Body Content -->
 <div id="txt-file">
-	<?php echo file_get_contents('privacy-policy.txt') ?>
+	<?php echo file_get_contents('text/privacy-policy.txt') ?>
 </div>
 
 <!-- Footer File -->

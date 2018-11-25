@@ -9,10 +9,11 @@
       <li class="breadcrumb-item active" aria-current="page">FAQs</li>
     </ol>
   </nav>
+</div>
 
 <!-- Body Content -->
 <div id="txt-file">
-	<?php echo file_get_contents('faq.txt') ?>
+	<?php echo file_get_contents('text/faq.txt') ?>
 </div>
 
 <!-- Footer File -->

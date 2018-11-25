@@ -5,17 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-    <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
-    <link rel="icon" href="../../../../favicon.ico">
-    <link href="style.css" rel="stylesheet">
-    
+
     <title>Compex Checkout Page</title>
 
-    <!-- Bootstrap core CSS -->
+    <!-- CSS Files -->
+    <link href="style.css" rel="stylesheet">
     <link href="css-bootstrap-4.0.0/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Custom styles for this template -->
     <link href="css/form-validation.css" rel="stylesheet">
+
+    <!-- JS Files -->
+    <script src="js/all-5.0.8.js"></script>
   </head>
 
   <body class="bg-light">
@@ -206,9 +205,9 @@
 
       <footer class="my-5 pt-5 text-muted text-center text-small">
         <p class="mb-1">&copy; 1975 Compex International Inc.</p>
-        <ul class="list-inline" id="list-inline">
-          <li class="list-inline-item"><a href="privacy-policy" id="list-inline-item">Privacy Policy</a></li>
-          <li class="list-inline-item"><a href="terms-service" id="list-inline-item">Terms Of Service</a></li>
+        <ul class="list-inline">
+          <li class="list-inline-item"><a href="privacy-policy">Privacy Policy</a></li>
+          <li class="list-inline-item"><a href="terms-service">Terms Of Service</a></li>
           <li class="list-inline-item"><a href="#" data-toggle="modal" data-target="#exampleModal" id="list-inline-item">Our Bank Details</a></li>
         </ul>
       </footer>

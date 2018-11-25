@@ -4,18 +4,22 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Compex Consumer Electronics And Office Equipment Online Store</title>
-	<link href="css/style.css" rel="stylesheet">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-	<script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+
+	<!-- CSS Files -->
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+
+	<!-- JavaScript Files -->
+	<script src="js/jquery-3.3.1.min.js"></script>
+	<script src="js/bootstrap-4.0.0.min.js"></script>
+	<script src="js/popper.min.js"></script>
+	<script src="js/all-5.0.8.js"></script>
 </head>
 
 <body>
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-dark sticky-top bg-company-red">
-	<a class="navbar-brand" href="#"><img src="img/logo-white.png"></a>
+	<a class="navbar-brand" href="#"><img src="img/logo-white.png" alt=""></a>
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>
 		</button>
@@ -45,10 +49,10 @@
 			  </div>
 			</li>
 			<li class="nav-item">
-					<a class="nav-link" href="#" data-toggle="modal" data-target="#exampleModal2">CONTACT US</a>
+					<a class="nav-link" data-toggle="modal" data-target="#exampleModal2">CONTACT US</a>
 			</li>
 			<li class="nav-item">
-					<a class="nav-link" href="#" data-toggle="modal" data-target="#exampleModal">BANK DETAIL</a>
+					<a class="nav-link" data-toggle="modal" data-target="#exampleModal">BANK DETAIL</a>
 			</li>
 			<li class="nav-item">
 					<a class="nav-link" href="cart.php"><i class="fa fa-shopping-cart"></i> CART <span class="badge badge-secondary badge-pill">3</span></a>
@@ -65,7 +69,7 @@
 	</div>
 </nav>
 
-<!-- Modal For Bank Details -->
+<!-- Pop Up Modal For Bank Details -->
 <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
@@ -76,7 +80,7 @@
         </button>
       </div>
       <div class="modal-body">
-        <?php echo file_get_contents('bank-details.txt') ?>
+        <?php echo file_get_contents('text/bank-details.txt') ?>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
@@ -85,7 +89,7 @@
   </div>
 </div>
 
-<!-- Modal For Contact Us -->
+<!-- Pop Up Modal For Contact Us -->
 <div class="modal fade" id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel2" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
@@ -96,7 +100,7 @@
         </button>
       </div>
       <div class="modal-body">
-        <p id="contact-1">
+        <p class="contact-1">
 	        Email:  sales@compex.com.ph<br>
 					Landline: 711-0288<br>
 					Globe: 0917-829-0288<br>
@@ -104,7 +108,7 @@
 					Fax: 711-0614<br>
 					Facebook: <a href="http://www.facebook.com/compexinternational" id="fb-link">Visit Us</a></p>
 				<hr class="light" id="border-collection">
-				<p id="contact-1">
+				<p class="contact-1">
 					Address:<br>
 					341 GBW Bldg. Quezon Avenue<br>
 					Quezon City, Philippines
@@ -117,7 +121,7 @@
   </div>
 </div>
 
-<!-- Modal For Shipping Options -->
+<!-- Pop Up Modal For Shipping Options -->
 <div class="modal fade" id="exampleModal3" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel3" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
@@ -128,7 +132,7 @@
         </button>
       </div>
       <div class="modal-body">
-        <?php echo file_get_contents('shipping-options.txt') ?>
+        <?php echo file_get_contents('text/shipping-options.txt') ?>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
@@ -156,7 +160,7 @@
 				</a>
 			</li>
 			<li class="banner">
-				<a href="#" class="nav-link" href="#" data-toggle="modal" data-target="#exampleModal3">
+				<a href="#" class="nav-link" data-toggle="modal" data-target="#exampleModal3">
 					<i class="fa fa-truck"></i>
 					<span class="regular">Shipping </span>
 					<span class="extrabold">Available</span>

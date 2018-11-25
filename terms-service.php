@@ -9,10 +9,11 @@
       <li class="breadcrumb-item active" aria-current="page">Terms Of Service</li>
     </ol>
   </nav>
+</div>
 
 <!-- Body Content -->
 <div id="txt-file">
-	<?php echo file_get_contents('terms-service.txt') ?>
+	<?php echo file_get_contents('text/terms-service.txt') ?>
 </div>
 
 <!-- Footer File -->

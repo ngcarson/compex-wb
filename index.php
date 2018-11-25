@@ -10,7 +10,7 @@
   
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="img/background.png">
+      <img src="img/background.png" alt="">
       <div class="carousel-caption">
         <h1 class="display-2">PRODUCT NAME</h1>
         <h3>Short Detailed Specs</h3>
@@ -18,7 +18,7 @@
       </div>
     </div>
     <div class="carousel-item">
-      <img src="img/background2.png">
+      <img src="img/background2.png" alt="">
       <div class="carousel-caption">
         <h1 class="display-2">PRODUCT NAME</h1>
         <h3>Short Detailed Specs</h3>
@@ -26,7 +26,7 @@
       </div>
     </div>
     <div class="carousel-item">
-      <img src="img/background3.png">
+      <img src="img/background3.png" alt="">
       <div class="carousel-caption">
         <h1 class="display-2">PRODUCT NAME</h1>
         <h3>Short Detailed Specs</h3>

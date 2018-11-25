@@ -9,11 +9,11 @@
 	    <li class="breadcrumb-item active" aria-current="page">Reserve Online</li>
 	  </ol>
 	</nav>
+</div>
 
-	<!-- Body Content -->
-	<div id="txt-file">
-		<?php echo file_get_contents('reserve-online.txt') ?>
-	</div>
+<!-- Body Content -->
+<div id="txt-file">
+	<?php echo file_get_contents('text/reserve-online.txt') ?>
 </div>
 
 <!-- Footer File -->

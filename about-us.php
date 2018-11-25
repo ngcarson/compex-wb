@@ -9,12 +9,14 @@
       <li class="breadcrumb-item active" aria-current="page">About Us</li>
     </ol>
   </nav>
+</div>
 
 <!-- Body Content -->
 <div id="txt-file">
-	<?php echo file_get_contents('about-us.txt') ?>
-	<img src="compex-store.jpg" alt="Compex Store" id="compex-store">
+	<?php echo file_get_contents('text/about-us.txt') ?>
+	<img src="img/compex-store.jpg" alt="Compex Store" id="compex-store">
 </div>
+
 
 <!-- Footer File -->
 <?php include("footer.php"); ?>
