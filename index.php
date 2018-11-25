@@ -1,3 +1,4 @@
+<!-- Header File -->
 <?php include("menu.php"); ?>
 
 <!--- Image Slider -->
@@ -45,6 +46,11 @@
   </a>
 </div>
 
+<!-- Section For Collections -->
 <?php include("cards.php"); ?>
 
+<!-- Section For Request For Quotation -->
+<?php include("request-for-quote.php"); ?>
+
+<!-- Footer File -->
 <?php include("footer.php"); ?>
