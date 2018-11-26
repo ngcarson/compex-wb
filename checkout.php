@@ -208,7 +208,7 @@
         <ul class="list-inline">
           <li class="list-inline-item"><a href="privacy-policy">Privacy Policy</a></li>
           <li class="list-inline-item"><a href="terms-service">Terms Of Service</a></li>
-          <li class="list-inline-item"><a href="#" data-toggle="modal" data-target="#exampleModal" id="list-inline-item">Our Bank Details</a></li>
+          <li class="list-inline-item"><a href="#" data-toggle="modal" data-target="#exampleModal">Our Bank Details</a></li>
         </ul>
       </footer>
     </div>

@@ -39,12 +39,12 @@
 			<!-- <h5 class="title py-4">Request Us For A Quote.</h5> -->
 			<form class="needs-validation" novalidate>
 		    <div class="mb-3">
-		        <label for="itemName">Product Name</label>
-		        <input type="text" class="form-control" id="itemName" placeholder="" value="" required>
-		        <div class="invalid-feedback">
-		          Item name is required.
-		        </div>
-		      </div>
+	        <label for="itemName">Product Name</label>
+	        <input type="text" class="form-control" id="itemName" placeholder="" value="" required>
+	        <div class="invalid-feedback">
+	          Item name is required.
+	        </div>
+	      </div>
 
 		    <div class="row">
 		      <div class="col-md-6">

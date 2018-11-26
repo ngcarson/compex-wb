@@ -986,7 +986,7 @@
 
   <div class="row-sm">
     <div class="col-6 col-md-3">
-      <figure class="card card-product">
+      <figure class="card-product">
         <div class="img-wrap"> <img src="img/items/4.jpg" alt=""></div>
         <figcaption class="info-wrap">
           <h6 class="title "><a href="#">Good item name</a></h6>
@@ -1000,7 +1000,7 @@
       </figure> <!-- card // -->
     </div> <!-- col // -->
     <div class="col-6 col-md-3">
-      <figure class="card card-product">
+      <figure class="card-product">
         <div class="img-wrap"> <img src="img/items/4.jpg" alt=""></div>
         <figcaption class="info-wrap">
           <h6 class="title "><a href="#">Good item name</a></h6>
@@ -1014,7 +1014,7 @@
       </figure> <!-- card // -->
     </div> <!-- col // -->
     <div class="col-6 col-md-3">
-      <figure class="card card-product">
+      <figure class="card-product">
         <div class="img-wrap"> <img src="img/items/4.jpg" alt=""></div>
         <figcaption class="info-wrap">
           <h6 class="title "><a href="#">Good item name</a></h6>
@@ -1028,7 +1028,7 @@
       </figure> <!-- card // -->
     </div> <!-- col // -->
     <div class="col-6 col-md-3">
-      <figure class="card card-product">
+      <figure class="card-product">
         <div class="img-wrap"> <img src="img/items/4.jpg" alt=""></div>
         <figcaption class="info-wrap">
           <h6 class="title "><a href="#">Good item name</a></h6>
@@ -1042,7 +1042,7 @@
       </figure> <!-- card // -->
     </div> <!-- col // -->
     <div class="col-6 col-md-3">
-      <figure class="card card-product">
+      <figure class="card-product">
         <div class="img-wrap"> <img src="img/items/4.jpg" alt=""></div>
         <figcaption class="info-wrap">
           <h6 class="title "><a href="#">Good item name</a></h6>
@@ -1056,7 +1056,7 @@
       </figure> <!-- card // -->
     </div> <!-- col // -->
     <div class="col-6 col-md-3">
-      <figure class="card card-product">
+      <figure class="card-product">
         <div class="img-wrap"> <img src="img/items/4.jpg" alt=""></div>
         <figcaption class="info-wrap">
           <h6 class="title "><a href="#">Good item name</a></h6>
@@ -1070,7 +1070,7 @@
       </figure> <!-- card // -->
     </div> <!-- col // -->
     <div class="col-6 col-md-3">
-      <figure class="card card-product">
+      <figure class="card-product">
         <div class="img-wrap"> <img src="img/items/4.jpg" alt=""></div>
         <figcaption class="info-wrap">
           <h6 class="title "><a href="#">Good item name</a></h6>
@@ -1084,7 +1084,7 @@
       </figure> <!-- card // -->
     </div> <!-- col // -->
     <div class="col-6 col-md-3">
-      <figure class="card card-product">
+      <figure class="card-product">
         <div class="img-wrap"> <img src="img/items/4.jpg" alt=""></div>
         <figcaption class="info-wrap">
           <h6 class="title "><a href="#">Good item name</a></h6>

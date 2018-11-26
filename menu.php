@@ -19,7 +19,7 @@
 <body>
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-dark sticky-top bg-company-red">
-	<a class="navbar-brand" href="#"><img src="img/logo-white.png" alt=""></a>
+	<a class="navbar-brand" href="index.php"><img src="img/logo-white.png" alt=""></a>
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>
 		</button>
@@ -59,7 +59,7 @@
 			</li>
 		</ul>
     <form class="input-group col-md-4">
-      <input class="form-control py-2 btn-outline-light" type="search" placeholder="Search products" id="example-search-input">
+      <input class="form-control py-2 btn-outline-light" type="search" placeholder="Search products">
       <span class="input-group-append">
         <button class="btn btn-outline-light" type="submit">
             <i class="fa fa-search"></i>
@@ -160,7 +160,7 @@
 				</a>
 			</li>
 			<li class="banner">
-				<a href="#" class="nav-link" data-toggle="modal" data-target="#exampleModal3">
+				<a class="banner" data-toggle="modal" data-target="#exampleModal3">
 					<i class="fa fa-truck"></i>
 					<span class="regular">Shipping </span>
 					<span class="extrabold">Available</span>
