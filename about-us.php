@@ -14,7 +14,7 @@
 <!-- Body Content -->
 <div id="txt-file">
 	<?php echo file_get_contents('text/about-us.txt') ?>
-	<img src="img/compex-store.jpg" alt="Compex Store" id="compex-store">
+	<img src="img/compex-store.jpg" alt="Compex-Online-Electronics-Store" id="compex-store">
 </div>
 
 

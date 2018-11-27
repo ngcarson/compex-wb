@@ -1,3 +1,4 @@
+<!-- Header File -->
 <?php include("menu.php"); ?>
 
 <div class="container">
@@ -11,4 +12,6 @@
 </div>
 
 <p style="text-align:center">Order Status Page!</p>
+
+<!-- Footer File -->
 <?php include("footer.php"); ?>

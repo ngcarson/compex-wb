@@ -1,13 +1,5 @@
-<!-- Bootstrap 4 Files-->
+<!-- CSS Custom Files-->
 <link href="css/bootstrap.css" rel="stylesheet">
-<script src="js/bootstrap.bundle.min.js"></script>
-
-<!-- Font Awesome 5 -->
-<link rel="stylesheet" href="fonts/fontawesome/css/fontawesome-all.min.css">
-
-<!-- Custom Style -->
-<link rel="stylesheet" href="css/ui.css">
-<link rel="stylesheet" href="css/responsive.css" media="only screen and (max-width: 1200px)">
 
 <!-- Custom Javascript -->
 <script src="js/script.js"></script>
@@ -25,11 +17,13 @@
 		<figure class="card-banner banner-size-lg">
 			<figcaption class="overlay left">
 				<br>
-				<h2 style="max-width: 300px;">Need help looking for a product?</h2>
-				<h3 style="max-width: 300px;">Submit a request form!</h3>
-				<br>
-				<p>OR, </p>
-				<a class="btn btn-warning" href="#">Contact Us</a>
+				<div id="request-contact-us">
+					<h2 style="max-width: 300px;">Need help looking for a product?</h2>
+					<h3 style="max-width: 300px;">Submit a request form!</h3>
+					<br>
+					<h5>OR</h5>
+					<a class="btn btn-primary" data-toggle="modal" data-target="#exampleModal2">CONTACT US</a>
+				</div>
 			</figcaption>
 			<img src="img/banners/banner-request.jpg">
 		</figure>
@@ -45,25 +39,35 @@
 	          Item name is required.
 	        </div>
 	      </div>
-
 		    <div class="row">
 		      <div class="col-md-6">
-		        <label for="firstName">First name</label>
+		        <label for="fullName">Full name</label>
 		        <input type="text" class="form-control" id="firstName" placeholder="" value="" required>
 		        <div class="invalid-feedback">
 		          Valid first name is required.
 		        </div>
 		      </div>
 		      <div class="col-md-6">
-		        <label for="lastName">Last name</label>
-		        <input type="text" class="form-control" id="lastName" placeholder="" value="" required>
+		        <label for="address">Address</label>
+		        <input type="text" class="form-control" id="address" placeholder="" value="" required>
 		        <div class="invalid-feedback">
 		          Valid last name is required.
 		        </div>
 		      </div>
 		    </div>
-
-		    <div class="row">
+		  	<div class="row">
+			    <div class="col-md-6">
+			      <label for="email">Email</label>
+			      <div class="input-group">
+			        <div class="input-group-prepend">
+			          <span class="input-group-text"><i class="fa fa-envelope"></i></span>
+			        </div>
+			        <input type="email" class="form-control" id="email" placeholder="you@example.com" required>
+			        <div class="invalid-feedback">
+			          Please enter a valid email address for shipping updates.
+			        </div>
+			      </div>
+			    </div>
 			    <div class="col-md-6">
 			      <label for="phone">Phone Number</label>
 			      <div class="input-group">
@@ -76,24 +80,12 @@
 			        </div>
 			      </div>
 			    </div>
-			    <div class="col-md-6">
-			      <label for="email">Email <span class="text-muted">(Optional)</span></label>
-			      <div class="input-group">
-			        <div class="input-group-prepend">
-			          <span class="input-group-text"><i class="fa fa-envelope"></i></span>
-			        </div>
-			        <input type="email" class="form-control" id="email" placeholder="you@example.com">
-			        <div class="invalid-feedback">
-			          Please enter a valid email address for shipping updates.
-			        </div>
-			      </div>
-			    </div>
 			  </div>
 			  <br>
 			  <div class="row">
 				  <div class="col-md-6">
 						<div class="g-recaptcha" data-sitekey="6Lei53wUAAAAAMbYMXgLmWkXyYwlAsoTdwVKKJ7U" data-theme="light" style="transform:scale(.9);-webkit-transform:scale(.9);transform-origin:0 0;-webkit-transform-origin:0 0;"></div>
-						<button class="btn btn-warning">Request for quote</button>
+						<button class="btn btn-success">Request for quote</button>
 					</div>
 				</div>
 			</form>

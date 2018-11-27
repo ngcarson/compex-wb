@@ -1,10 +1,3 @@
-<!-- Font Awesome 5 File -->
-<link href="fonts/fontawesome/css/fontawesome-all.min.css" type="text/css" rel="stylesheet">
-
-<!-- CSS Files for cards.php -->
-<link rel="stylesheet" href="css/ui.css">
-<link rel="stylesheet" href="css/responsive.css" media="only screen and (max-width: 1200px)">
-
 <!-- ========================= START - OFFICE EQUIPMENT CONTENT ========================= -->
 <section class="section-content padding-y-sm bg">
 <div class="container">
@@ -19,10 +12,9 @@
       <article class="card-banner h-100 bg2">
         <div class="card-body zoom-wrap">
           <h5 class="title">Office Equipment For Business Needs</h5>
-          <p>Consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, cLorem ipsum dolor sit amet, cLorem ipsum dolor sit amet, cLorem ipsum dolor sit amet, c</p>
+          <p>Supreme quality and affordable office equipment for your business needs: time recorders, barcode readers, projectors, security cameras, and many more!</p>
           <a href="#" class="btn btn-warning">See more</a>
-          <img src="img/items/item-sm.png" alt="" height="200" class="img-bg zoom-in">
+          <img src="img/items/office-equipment.png" alt="IT-office-equipments" height="200" class="img-bg zoom-in">
         </div>
       </article>
     </div> <!-- col.// -->
@@ -180,11 +172,10 @@
     <div class="col-md-3">
       <article class="card-banner h-100 bg2">
         <div class="card-body zoom-wrap">
-          <h5 class="title">Office Equipment For Business Needs</h5>
-          <p>Consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, cLorem ipsum dolor sit amet, cLorem ipsum dolor sit amet, cLorem ipsum dolor sit amet, c</p>
+          <h5 class="title">Gadget Accessories</h5>
+          <p>Big CLEARANCE sale on all electronic gadgets and computer accessories: wireless headsets, speakers, cables, flash memories, storage devices, power banks, and many more!</p>
           <a href="#" class="btn btn-warning">See more</a>
-          <img src="img/items/item-sm.png" alt="" height="200" class="img-bg zoom-in">
+          <img src="img/items/peripherals.png" alt="Gadgets-Accessories" height="200" class="img-bg zoom-in">
         </div>
       </article>
     </div> <!-- col.// -->
@@ -342,11 +333,10 @@
     <div class="col-md-3">
       <article class="card-banner h-100 bg2">
         <div class="card-body zoom-wrap">
-          <h5 class="title">Office Equipment For Business Needs</h5>
-          <p>Consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, cLorem ipsum dolor sit amet, cLorem ipsum dolor sit amet, cLorem ipsum dolor sit amet, c</p>
+          <h5 class="title">Smartphones On Sale</h5>
+          <p>Big CLEARANCE sale on all smartphone brands: Apple, Samsung, Huawei, Asus, Lenovo, Nokia, Firefly, and Accessories. Get them while supplies last!</p>
           <a href="#" class="btn btn-warning">See more</a>
-          <img src="img/items/item-sm.png" alt="" height="200" class="img-bg zoom-in">
+          <img src="img/items/smartphone.png" alt="Smartphones" height="200" class="img-bg zoom-in">
         </div>
       </article>
     </div> <!-- col.// -->
@@ -504,11 +494,10 @@
     <div class="col-md-3">
       <article class="card-banner h-100 bg2">
         <div class="card-body zoom-wrap">
-          <h5 class="title">Office Equipment For Business Needs</h5>
-          <p>Consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, cLorem ipsum dolor sit amet, cLorem ipsum dolor sit amet, cLorem ipsum dolor sit amet, c</p>
+          <h5 class="title">Computer Notebooks For Personal, Business or Gaming Needs</h5>
+          <p>Big CLEARANCE sale on all laptop brands: Acer, Asus, Lenovo, HP, Dell, and many more! Get them while supplies last!</p>
           <a href="#" class="btn btn-warning">See more</a>
-          <img src="img/items/item-sm.png" alt="" height="200" class="img-bg zoom-in">
+          <img src="img/items/laptop.png" alt="Computer-Notebooks" height="200" class="img-bg zoom-in">
         </div>
       </article>
     </div> <!-- col.// -->
@@ -666,11 +655,10 @@
     <div class="col-md-3">
       <article class="card-banner h-100 bg2">
         <div class="card-body zoom-wrap">
-          <h5 class="title">Office Equipment For Business Needs</h5>
-          <p>Consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, cLorem ipsum dolor sit amet, cLorem ipsum dolor sit amet, cLorem ipsum dolor sit amet, c</p>
+          <h5 class="title">Networking Products For Personal or Business Needs</h5>
+          <p>Big CLEARANCE sale on all networking products. Explore our collection to perfecty match your personal, business, or gaming needs. Get them while supplies last!</p>
           <a href="#" class="btn btn-warning">See more</a>
-          <img src="img/items/item-sm.png" alt="" height="200" class="img-bg zoom-in">
+          <img src="img/items/networking-product.png" alt="Networking-Products" height="200" class="img-bg zoom-in">
         </div>
       </article>
     </div> <!-- col.// -->
@@ -828,11 +816,10 @@
     <div class="col-md-3">
       <article class="card-banner h-100 bg2">
         <div class="card-body zoom-wrap">
-          <h5 class="title">Office Equipment For Business Needs</h5>
-          <p>Consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, cLorem ipsum dolor sit amet, cLorem ipsum dolor sit amet, cLorem ipsum dolor sit amet, c</p>
+          <h5 class="title">Wearable Technology On Sale</h5>
+          <p>Big CLEARANCE sale on all wearable technologies: wireless earbuds for calls & music, bluetooth headsets, 4K action cameras, smart watches, and many more! Get them while supplies last!</p>
           <a href="#" class="btn btn-warning">See more</a>
-          <img src="img/items/item-sm.png" alt="" height="200" class="img-bg zoom-in">
+          <img src="img/items/smart-watch.png" alt="Smart-Watch" height="200" class="img-bg zoom-in">
         </div>
       </article>
     </div> <!-- col.// -->

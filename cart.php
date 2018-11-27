@@ -1,13 +1,7 @@
 <!-- Header File -->
 <?php include("menu.php"); ?>
 
-<!-- CSS Files for cards.php -->
-<link rel="stylesheet" href="css/cart.css">
-
-<!-- Include the above in your HEAD tag -->
-
-<script src="https://use.fontawesome.com/c560c025cf.js"></script>
-
+<!-- SHOPPING CART -->
 <div class="container">
    <div class="card shopping-cart">
             <div class="card-header bg-light text-dark">

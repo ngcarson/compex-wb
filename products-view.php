@@ -1,31 +1,13 @@
+<!-- Header File -->
 <?php include("menu.php"); ?>
 
-<!-- CSS Custom Style -->
-<link rel="stylesheet" href="css/ui.css" type="text/css"/>
-<link rel="stylesheet" href="css/responsive.css" media="only screen and (max-width: 1200px)">
-<link rel="stylesheet" href="fonts/fontawesome/css/fontawesome-all.min.css">
-
-<!-- Bootstrap 4 Files-->
-<link rel="stylesheet" href="css/bootstrap.css">
-<script src="js/bootstrap.bundle.min.js"></script>
-
-<!-- Plugin: Fancybox  -->
-<link href="plugins/fancybox/fancybox.min.css" type="text/css" rel="stylesheet">
-<script src="plugins/fancybox/fancybox.min.js" type="text/javascript"></script>
-
-<!-- Plugin: Owl Carousel -->
-<link href="plugins/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-<link href="plugins/owlcarousel/assets/owl.theme.default.css" rel="stylesheet">
-<script src="plugins/owlcarousel/owl.carousel.min.js"></script>
-
-<body>
 <!-- ========================= SECTION CONTENT ========================= -->
 <section class="section-content bg padding-y-sm">
 	<div class="container">
 		<nav class="mb-3">
 		<ol class="breadcrumb">
 		    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-		    <li class="breadcrumb-item"><a href="products-lists.php">Category name</a></li>
+		    <li class="breadcrumb-item"><a href="products-lists-grid-view.php">Category name</a></li>
 		    <li class="breadcrumb-item active" aria-current="page">Items</li>
 		</ol> 
 		</nav>
@@ -98,7 +80,7 @@
 									</div> <!-- row.// -->
 									<hr>
 									<a href="#" class="btn  btn-warning"> <i class="fa fa-envelope"></i> Contact Us For This Item </a>
-									<a href="#" class="btn  btn-outline-warning"> ADD TO CART </a>
+									<a href="cart.php" class="btn  btn-outline-warning"> ADD TO CART </a>
 								<!-- short-info-wrap .// -->
 							</article> <!-- card-body.// -->
 						</aside> <!-- col.// -->
@@ -129,12 +111,6 @@
 						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-					<p>	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 					</div> <!-- card-body.// -->
 				</article> <!-- card.// -->
 				<!-- PRODUCT DETAIL .// -->
@@ -142,9 +118,7 @@
 				</div> <!-- col // -->
 			<aside class="col-xl-2 col-md-3 col-sm-12">
 				<div class="card">
-					<div class="card-header">
-					    Recomended items
-					</div>
+					<div class="card-header">Recommended items</div>
 					<div class="card-body row">
 						<div class="col-md-12 col-sm-3">
 							<figure class="item border-bottom mb-3">
@@ -187,4 +161,5 @@
 </section>
 <!-- ========================= SECTION CONTENT .END// ========================= -->
 
+<!-- Footer File -->
 <?php include("footer.php"); ?>

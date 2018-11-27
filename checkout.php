@@ -20,7 +20,7 @@
   <body class="bg-light">
     <div class="container">
       <div class="text-center" id="logo">
-        <img class="d-block mx-auto mb-4" src="img/logo-high-lg.png" alt="" id="checkout-logo">
+        <img class="d-block mx-auto mb-4" src="img/logo-high-lg.png" alt="Compex-Online-Store" id="checkout-logo">
       </div>
 
       <!-- Breadcrumbs -->
